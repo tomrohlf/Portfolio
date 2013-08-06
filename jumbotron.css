@@ -14,6 +14,36 @@ background-size: 100%;
 height: 326px; /* replace 139 px with something you need */
 }
 
+.designProject1 {
+width: 400px;  
+float: left;
+background-image: url(img/sunset.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100%;
+height: 223px; 
+}
+
+.designProject2 {
+width: 400px;
+float: left;
+background-image: url(img/sunset.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100%;
+height: 223px;
+}
+
+.designProject3 {
+width: 400px;
+float: left;
+background-image: url(img/sunset.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100%;
+height: 223px;
+}
+
 /* Set widths on the navbar form inputs since otherwise they're 100% wide */
 .navbar-form input[type="text"],
 .navbar-form input[type="password"] {
