@@ -4,6 +4,16 @@ body {
   padding-bottom: 20px;
 }
 
+.jumbotron {
+width: 1170px; /* replace 150px with something you need */ 
+float: left;
+background-image: url(img/sunset.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100%;
+height: 326px; /* replace 139 px with something you need */
+}
+
 /* Set widths on the navbar form inputs since otherwise they're 100% wide */
 .navbar-form input[type="text"],
 .navbar-form input[type="password"] {
